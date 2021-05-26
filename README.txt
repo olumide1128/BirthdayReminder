@@ -20,7 +20,7 @@ winsound
 win10toast (needs pip to install)
 
 NOTE: You would need to create a database.txt file where the birthday and names of friends would be. The 
-python program would run through this file every startup to check for a birthday for that day.
+python program would run through this file every startup (You can use a scheduler) to check for a birthday for that day.
 
 Content of the database.txt file should be in this format:
 
